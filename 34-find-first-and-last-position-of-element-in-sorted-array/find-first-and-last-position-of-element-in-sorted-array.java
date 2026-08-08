@@ -1,10 +1,10 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] ans={-1,-1};
-        ceiling(nums,target,ans);
-        floor(nums,target,ans);
-    return ans;} 
-    static void ceiling(int[]nums,int target,int[] ans){
+        int[] answer={-1,-1};
+        ceiling(nums,target,answer);
+        floor(nums,target,answer);
+    return answer;} 
+    static void ceiling(int[]nums,int target,int[] answer){
          int start = 0;
         int end = nums.length - 1;
         while (start <= end) {
@@ -15,12 +15,12 @@ class Solution {
                 start = mid + 1;
             }
             else{
-                ans[0]=mid;
+                answer[0]=mid;
                 end=mid-1;
             }
             }
           }
-    static void floor(int[] nums,int target,int[] ans){
+    static void floor(int[] nums,int target,int[] answer){
         int start = 0;
         int end = nums.length - 1;
         while (start <= end) {
@@ -31,7 +31,7 @@ class Solution {
             else if(target>nums[mid]) {
                 start = mid + 1;}
             else{
-                    ans[1]=mid;
+                    answer[1]=mid;
                     start=mid+1;
 
                 }
