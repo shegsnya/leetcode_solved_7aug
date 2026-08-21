@@ -1,30 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        //shagun
-        int i=0;
-        while(i<nums.length){
-            int correct=nums[i];
-            if(nums[i]<nums.length && nums[i]!=nums[correct]){
-                swap(nums,i,correct);
-            }
-            else{
-                i++;
-            }
+        //BITWISE
+        int n=nums.length;
+        int xr=0;
+        int xxr=n;
+        for(int i =0;i<n;i++){
+             xr ^=nums[i];
+              xxr ^=i;
         }
-        for(int j =0;j<nums.length;j++){
-            if(nums[j]!=j){
-                return j;
-
-            }
-            
-            
-        }
-    return nums.length; }
-    static void swap(int[] arr,int first,int sec){
-        int temp=arr[first];
-        arr[first]=arr[sec];
-        arr[sec]=temp;
-    }
-    
-
+       
+    return xr^xxr; }
 }
