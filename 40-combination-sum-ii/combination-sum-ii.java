@@ -12,7 +12,7 @@ class Solution {
             }
       
        for(int i =index;i<candidates.length;i++){
-        if(i>index && candidates[i]==candidates[i-1]){
+        if(i>index && candidates[i]==candidates[i-1]){ // we should alwasy consider 1st elemetn after that index still 0 i increases so were comparing adn checking 2nd 3rd etc duplicate values 
             continue;
         }
         if(candidates[i]>target){
