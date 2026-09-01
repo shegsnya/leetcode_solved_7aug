@@ -7,7 +7,7 @@ class Solution {
     }
     static void subsettwo(int index,int[] nums,List<List<Integer>> ans,ArrayList<Integer> ds){
         ans.add(new ArrayList<>(ds));
-        for(int i=index;i<nums.length;i++){
+        for(int i=index;i<=nums.length-1;i++){
             if(i!=index && nums[i]==nums[i-1]){
                 continue;
             }
