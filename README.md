@@ -11,6 +11,7 @@ a record of daily leetcode problems solved/reviewed/revised
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0051-n-queens) |
 ## Algorithm X
@@ -30,4 +31,16 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
