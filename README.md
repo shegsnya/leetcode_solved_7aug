@@ -45,4 +45,8 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
