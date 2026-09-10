@@ -68,6 +68,7 @@ a record of daily leetcode problems solved/reviewed/revised
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1757-recyclable-and-low-fat-products) |
 ## Knapsack Problem
 |  |
