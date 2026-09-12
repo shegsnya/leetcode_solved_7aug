@@ -9,6 +9,7 @@ a record of daily leetcode problems solved/reviewed/revised
 | [0037-sudoku-solver](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0518-coin-change-ii) |
@@ -45,6 +46,7 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
+| [0322-coin-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0518-coin-change-ii) |
@@ -80,6 +82,7 @@ a record of daily leetcode problems solved/reviewed/revised
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0518-coin-change-ii) |
@@ -91,5 +94,10 @@ a record of daily leetcode problems solved/reviewed/revised
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
