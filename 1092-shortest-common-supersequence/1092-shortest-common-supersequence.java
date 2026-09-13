@@ -49,8 +49,14 @@ class Solution {
             st+=str2.charAt(j-1);
             j--;
         }
-        StringBuilder sb=new StringBuilder(st);
-
-    return sb.reverse().toString();
+        return reverse(st);
+        ///StringBuilder sb=new StringBuilder(st);
+    //return sb.reverse().toString();
+    }
+    static String reverse(String st){
+        if(st.length() == 0){
+            return st;
+            }
+            return reverse(st.substring(1)) + st.charAt(0);
     }
 }
