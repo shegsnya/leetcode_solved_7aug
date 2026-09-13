@@ -42,6 +42,7 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ a record of daily leetcode problems solved/reviewed/revised
 | [0416-partition-equal-subset-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -100,4 +102,8 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
