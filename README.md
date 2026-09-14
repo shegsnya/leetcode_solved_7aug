@@ -46,6 +46,7 @@ a record of daily leetcode problems solved/reviewed/revised
 | [0583-delete-operation-for-two-strings](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ a record of daily leetcode problems solved/reviewed/revised
 | [0583-delete-operation-for-two-strings](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Bracket Sequences
 |  |
 | ------- |
