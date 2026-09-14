@@ -42,6 +42,7 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1092-shortest-common-supersequence) |
@@ -52,6 +53,7 @@ a record of daily leetcode problems solved/reviewed/revised
 | ------- |
 | [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0516-longest-palindromic-subsequence) |
@@ -117,4 +119,8 @@ a record of daily leetcode problems solved/reviewed/revised
 | [0583-delete-operation-for-two-strings](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1143-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
