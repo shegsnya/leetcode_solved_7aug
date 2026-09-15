@@ -52,6 +52,7 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0416-partition-equal-subset-sum) |
@@ -123,4 +124,12 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
