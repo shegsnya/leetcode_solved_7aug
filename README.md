@@ -72,6 +72,7 @@ a record of daily leetcode problems solved/reviewed/revised
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0196-delete-duplicate-emails) |
