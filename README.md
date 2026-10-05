@@ -62,6 +62,7 @@ a record of daily leetcode problems solved/reviewed/revised
 | [0516-longest-palindromic-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0583-delete-operation-for-two-strings) |
+| [0887-super-egg-drop](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0887-super-egg-drop) |
 | [1092-shortest-common-supersequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -132,8 +133,13 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0070-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0887-super-egg-drop) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0887-super-egg-drop](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0887-super-egg-drop) |
 <!---LeetCode Topics End-->
