@@ -7,6 +7,7 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0055-jump-game) |
 | [0216-combination-sum-iii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0216-combination-sum-iii) |
@@ -56,6 +57,7 @@ a record of daily leetcode problems solved/reviewed/revised
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0132-palindrome-partitioning-ii) |
@@ -151,6 +153,7 @@ a record of daily leetcode problems solved/reviewed/revised
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/shegsnya/leetcode_solved_7aug/tree/master/0860-lemonade-change) |
